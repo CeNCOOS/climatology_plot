@@ -1,0 +1,9 @@
+[
+	{
+		"data_path":"c:/reiko_code_m1_climate/",
+		"climate_years":[1989, 2020],
+		"yaxis_limits":[8,20],
+		"var_name":"Temperature"
+	}
+]
+		
